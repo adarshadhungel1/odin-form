@@ -25,10 +25,9 @@ div{
     margin-right: 15%;
 }
 .logo{
-    background-image: url('https://images.pexels.com/photos/7303342/pexels-photo-7303342.jpeg');
+    background-image: url('../res/bgimg.jpg');
     /* https://www.pexels.com/@cup-of-couple/ */
     width: 30%;
-    height: auto;
 }
 
 .header{
