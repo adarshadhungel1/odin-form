@@ -1,6 +1,22 @@
 .major{
     display: flex;
 }
+
+.secondflex{
+    display: flex;
+    width: 70%;
+    align-items: flex-start;
+    justify-content: left;
+}
+
+.itemone,.itemtwo{
+    display: flex;
+    width: 50%;
+}
 .logo{
     width: 30%;
+}
+
+.header{
+    width: 70%;
 }
