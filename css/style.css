@@ -4,6 +4,8 @@ div{
 
 .major{
     display: flex;
+    gap: 5%;
+    height: 1080px;
 }
 
 .secondflex{
@@ -25,11 +27,17 @@ div{
     margin-right: 15%;
 }
 .logo{
-    background-image: url('../res/bgimg.jpg');
+    background-image: url("https://images.unsplash.com/photo-1585202900225-6d3ac20a6962?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
     /* https://www.pexels.com/@cup-of-couple/ */
+    /*margin: 0 auto auto 0;*/
     width: 30%;
 }
 
 .header{
+    margin-top: 5%;
     width: 70%;
+}
+
+h3{
+    margin-top: 4%;
 }
