@@ -37,11 +37,19 @@ div{
     margin-top: 15%;
     width: 70%;
     font-weight: bold;
-    font-size: 1.6vw;
+    font-size: 1.6em;
 }
 
 h3{
     margin-top: 4%;
-    font-size: 2vw;
+    font-size: 2em;
     color: rgb(133, 10, 10);
+}
+
+label, .footer{
+    font-weight: bold;
+}
+
+.footer{
+    margin-top: 1%;
 }
