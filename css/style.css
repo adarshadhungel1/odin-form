@@ -68,7 +68,7 @@ svg{
 button{
     margin-top: 0.5%;
     border-radius: 5px;
-    background-color: springgreen;
+    background-color: #596D48;
     font-weight: 600;
     height: 27px;
     width: 85px;
@@ -83,4 +83,12 @@ input::-webkit-inner-spin-button {
 
 input[type=number] {
   -appearance: textfield;
+}
+
+input:focus{
+    border-color: blue;
+}
+
+input{
+    border-color: #E5E7EB;
 }
