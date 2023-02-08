@@ -94,6 +94,7 @@ input:focus{
 
 input{
     border-color: #E5E7EB;
+    border-radius: 6px;
 }
 
 .pwmismatch{
