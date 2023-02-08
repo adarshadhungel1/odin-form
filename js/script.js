@@ -9,8 +9,8 @@ function checkpass(e){
     }
     else {
         document.querySelector('.pwmismatch').innerHTML = "";
-        document.querySelector('#pw').style.borderColor = '#E5E7EB';
-        document.querySelector('#pwrepeat').style.borderColor = '#E5E7EB';
+        document.querySelector('#pw').style.borderColor = '#18de4d';
+        document.querySelector('#pwrepeat').style.borderColor = '#18de4d';
     }
 }
 
