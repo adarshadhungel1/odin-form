@@ -70,6 +70,7 @@ svg{
 
 button{
     margin-top: 0.5%;
+    border-style: ridge;
     border-radius: 5px;
     background-color: #596D48;
     font-weight: 600;
@@ -94,6 +95,7 @@ input:focus{
 
 input{
     border-color: #E5E7EB;
+    border-style: ridge;
     border-radius: 6px;
     border-width: 2px;
 }
