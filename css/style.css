@@ -98,3 +98,10 @@ input{
     font-size: 0.9em;
     font-weight: bold;
 }
+
+svg{
+    display: block;
+    margin: 25% auto auto auto;
+    max-width: 70%;
+    justify-self: center;
+}
